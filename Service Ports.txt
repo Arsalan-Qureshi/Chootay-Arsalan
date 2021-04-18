@@ -1,0 +1,13 @@
+8081: Admin Authentication
+8082: Admin Service
+8083: Salesperson Authentication Service
+8084: Salesperson Service
+8085: Account Manager Authentication Service
+8086: Account Manager Service
+8087: Mechanic Authentication Service
+8088: Mechanic Service
+8089: Sales Service
+8091: Repair Report Service
+8092: Bike Service
+8093: Spare Parts Service
+8094: Customer Service
